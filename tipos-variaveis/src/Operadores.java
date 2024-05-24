@@ -7,8 +7,8 @@ public class Operadores {
 
 
 
-        int numero1 = 1;
         int numero2 = 2;
+        int numero1 = 1;
 
         boolean simNao = numero1 == numero2;
 
